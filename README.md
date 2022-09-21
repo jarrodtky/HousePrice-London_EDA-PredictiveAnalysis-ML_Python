@@ -29,7 +29,7 @@ need to edit the python file
 
 
 ## Project Overview
-- Use predictive analytics to ().
+- Use predictive analytics to predict future house price changes of different boroughs over time in London based on features like area, average_price, houses_sold, etc.
 - The dataset can be obtained [here from Kaggle](https://www.kaggle.com/datasets/justinas/housing-in-london).
 - [Python](https://www.python.org/) is used to assist this project with Data Mining by extracting important insights using: 
   - [Basic Statistics](https://en.wikipedia.org/wiki/Statistics)
