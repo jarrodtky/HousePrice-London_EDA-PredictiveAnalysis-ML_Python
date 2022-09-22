@@ -42,30 +42,42 @@ need to edit the python file
 
 
 
-===============================
-
 ## Motivation
-- In the healthcare industry, understanding what factors or indicators affect a disease is an essential part of the decision-making and problem-solving process. 
-- People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management wherein a machine learning model or statistical analyses can be of great help.
-- These indicators allow decision-makers to identify any potential ways to reduce risk factors of future health and increase the likelihood of disease prevention effectively (Santos et al., 2019). 
+- Besides making the decision based on affordability of the house alone, there are other factors such as the geographical location, population size, ease of transportation, etc that also affect the decision-making process.
+- Likewise, the housing market in London has been rapidly growing since 1995, with an average of 10% yearly increase in housing prices in most years (Nationwide, 2015).
+- However, this does not show London’s housing market is not without volatility. 
+    - For example, does the major crisis such as the great recession affect the London’s house price industry?
+- On the other hand, this may affect London homebuyers, sellers, or business partners who want to find out more about the trends of housing prices and change in various districts. 
+    - For example, it is difficult to find sources about the trends of all the boroughs in London and the corresponding factors to them. 
+    - For example, since the City of London district is a separate district on its own, will there be any consequences when buying houses in that district or will it perform just as well or better when compared to the other districts?
 
 
 
 ### Aim & Objective
 - Aim: 
-  - To improve the process of analyzing patients’ heart disease in the healthcare industry to allow earlier detection and avoidance of heart disease and morbidity. 
+  - To apply an analytical framework from the datasets that can provide users with location-specific predictions and trends on the London housing market.
+  - The outcome of the project should display the following information:
+    - The leading factors and trends affecting the house price changes of different boroughs over time in London.
+    - The prediction of future house price changes of different boroughs over time in London.
+
 - Objective: 
-  - To create and select the best Machine Learning model that classifies patients into those who will develop heart disease in the future and those who will not based on the importance of data variables and models evaluation and assessment (i.e. Accuracy, Recall, AUC, etc.). 
-  - The insights gained by analyzing the feature importance of each data variable to the target data will aid in establishing which factor or indicator is critical in causing heart disease.
+  - To create and select the best Machine Learning model that estimates and predicts the future London house prices based on the importance of data variables and models evaluation and assessment (i.e. Accuracy, Recall, AUC, etc.). 
+  - Through the acquiring of insights and extracted information, this may help assist buyers, hosts, or companies to make better decisions with their listing methods, property price range, business problems, etc.
 
 
 
 ## Contents
-**(1) HeartDisease_Dataset.csv**
-  - Heart Disease dataset file in CSV format.
+**(1) MonthlyHousePrice-London_Dataset.csv**
+  - Monthly London House Price dataset file in CSV format.
 
-**(2) HeartDisease_EDA-ML_Python.ipynb**
-  - The main notebook containing the Python implementation codes (along with explanations) for the project.
+**(2) YearlyHousePrice-London_Dataset.csv**
+  - Yearly London House Price dataset file in CSV format.
+  
+**(3) MonthlyHousePrice-London_EDA-PredictiveAnalysis-ML_Python.ipynb**
+  - The notebook containing the Monthly London House Price Python implementation codes (along with explanations) for the project.
+
+**(4) YearlyHousePrice-London_EDA-PredictiveAnalysis-ML_Python.ipynb**
+  - The notebook containing the Yearly London House Price Python implementation codes (along with explanations) for the project.
 
 
 
