@@ -67,17 +67,17 @@ need to edit the python file
 
 
 ## Contents
-**(1) MonthlyHousePrice-London_Dataset.csv**
-  - Monthly London House Price dataset file in CSV format.
+**(1) HousePrice-London_Dataset Folder**
+  - Contains the Monthly and Yearly London House Price datasets. 
 
-**(2) YearlyHousePrice-London_Dataset.csv**
-  - Yearly London House Price dataset file in CSV format.
-  
-**(3) MonthlyHousePrice-London_EDA-PredictiveAnalysis-ML_Python.ipynb**
-  - The notebook containing the Monthly London House Price Python implementation codes (along with explanations) for the project.
+    **(1.1) MonthlyHousePrice-London_Dataset.csv**
+    - Monthly London House Price dataset file in CSV format.
 
-**(4) YearlyHousePrice-London_EDA-PredictiveAnalysis-ML_Python.ipynb**
-  - The notebook containing the Yearly London House Price Python implementation codes (along with explanations) for the project.
+    **(1.2) YearlyHousePrice-London_Dataset.csv**
+    - Yearly London House Price dataset file in CSV format.
+
+**(2) HousePrice-London_EDA-PredictiveAnalysis-ML_Python Folder**
+  - Contains the main Python notebook with implementation codes and explanations for the project.
 
 
 
