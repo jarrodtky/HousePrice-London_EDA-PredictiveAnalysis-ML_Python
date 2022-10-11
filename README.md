@@ -1,7 +1,3 @@
-
-need to edit the python file
-
-
 <p align="center">
     <img width="800" src="https://www.yourmoney.com/wp-content/uploads/sites/3/2022/03/house-prices-scaled.jpg">
 </p>
